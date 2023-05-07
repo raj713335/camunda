@@ -1,0 +1,3 @@
+export ClusterUrl='9bdefeb4-b97a-455d-a453-d3e1bd78f8a4.dsm-1.zeebe.camunda.io:443'
+export ClientId='eHF7nWQ0G6_ZtQRMd5O7KKx5I.6j81Ti'
+export ClientSecret='fUuVDxjepBBJ8ROCOLmdmI6NJYF590BlMs0_3csi11kFatWY~Mn93vsyWRxa9VlZ'
